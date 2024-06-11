@@ -5,6 +5,7 @@
 ## How to Run
 
 ```
+git clone https://github.com/imrankalimi/mastergpt
 npm install
 npm run build
 npm run start
