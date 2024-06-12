@@ -1,5 +1,5 @@
 {
-  "name": "chatpad",
+  "name": "MasterGPT",
   "source": "src/index.html",
   "author": "Imran Kalimi",
   "browserslist": "> 0.5%, last 2 versions, not dead",
